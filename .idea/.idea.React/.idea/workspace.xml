@@ -9,31 +9,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f2a1c7b-5ccf-40ef-90e8-fe12f33908e3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.FullStackProxy/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.FullStackProxy/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.FullStackProxy/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.FullStackProxy/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/.eslintrc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/next.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/vercel.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/styles/Home.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/styles/globals.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/yarn.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.React/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.React/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.React/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.React/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.React/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/React.sln" beforeDir="false" afterPath="$PROJECT_DIR$/FullStackProxy.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReactBackend/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReactBackend/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/Properties/launchSettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReactBackend/ReactBackend.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/Backend.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReactBackend/SpaProxy.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/SpaProxy.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReactBackend/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/appsettings.Development.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReactBackend/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.React/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.React/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/Controllers/SignInController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/Controllers/SignInController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/react-frontend/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/react-frontend/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/react-frontend/package.json" beforeDir="false" />
@@ -57,6 +39,13 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/17c0bb6838f795b718d4eaa36d5f01052f0bfb7fc3efcc7e4fd79bb799a62c/ReactDevelopmentServerMiddleware.cs" root0="SKIP_HIGHLIGHTING" />
@@ -91,7 +80,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Console Font",
-    "ts.external.directory.path": "C:\\Users\\Admin\\RiderProjects\\React\\react-frontend\\node_modules\\typescript\\lib",
+    "ts.external.directory.path": "C:\\Users\\Admin\\RiderProjects\\React\\frontend\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -135,7 +124,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658307628684</updated>
-      <workItem from="1658307634678" duration="8503000" />
+      <workItem from="1658307634678" duration="10902000" />
     </task>
     <servers />
   </component>
